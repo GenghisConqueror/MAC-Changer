@@ -1,5 +1,6 @@
 ### MAC Address Changer
-    This script allows users to change the MAC (Media Access Control) address of a specified network interface on Windows, Linux, and macOS.
+    This script allows users to change the MAC (Media Access Control) address of a specified network interface 
+    on Windows, Linux, and macOS.
 
 #### Features
     Validates the new MAC address format.
