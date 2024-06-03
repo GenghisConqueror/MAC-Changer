@@ -13,4 +13,7 @@
 ### Clone the repository:
     git clone https://github.com/yourusername/mac-address-changer.git
     cd mac-address-changer
+### Run the Script:
+    python3 mac_changer.py
     
+
